@@ -2,7 +2,7 @@
 
 # How to Search an Item?
 
-This project demonstrates how to search the items for the HarmonyOS Next apps
+This project demonstrates how to search the items for the HarmonyOS apps
 
 # Preview
 <div>
